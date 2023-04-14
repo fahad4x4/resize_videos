@@ -1,5 +1,7 @@
 # resize_videos
-resize_videos 50%
+
+# resize_videos 50%
+
 لتصغير حجم مجموعة الفيديوهات في مجلد بنسبة 50٪ باستخدام ffmpeg، يمكن اتباع الخطوات التالية:
 sudo apt-get install ffmpeg
 
